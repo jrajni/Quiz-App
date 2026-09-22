@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "ques": " What is the primary goal of Data Analytics?",
+    "ans": "Extract useful insights from data",
+    "options": [
+      "Increase website traffic",
+      "Extract useful insights from data",
+      "Manage servers",
+      "Design graphics"
+    ]
+  },
+  {
+    "id": 2,
+    "ques": "Which of these is a type of Data Analytics?",
+    "ans": "Predictive Analytics",
+    "options": [
+      "Quantitative Analytics",
+      "Predictive Analytics",
+      "Comparative Analytics",
+      "Behavioral Analytics"
+    ]
+  },
+  {
+    "id": 3,
+    "ques": "Structured data is best stored in:",
+    "ans": "SQL databases",
+    "options": ["Excel", "SQL databases", "Images", "PDFs"]
+  },
+  {
+    "id": 4,
+    "ques": "Which of these is a type of Data Analytics?",
+    "ans": "Predictive Analytics",
+    "options": [
+      "Quantitative Analytics",
+      "Predictive Analytics",
+      "Comparative Analytics",
+      "Behavioral Analytics"
+    ]
+  },
+  {
+    "id": 5,
+    "ques": "What is the first step in the data analytics process?",
+    "ans": "Data collection",
+    "options": [
+      "Data modeling",
+      "Data collection",
+      "Data visualization",
+      "Decision-making"
+    ]
+  }
+]
